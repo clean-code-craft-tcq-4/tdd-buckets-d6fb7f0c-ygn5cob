@@ -34,7 +34,7 @@ TEST_CASE("TEST_CASE 4") {
     REQUIRE(objectofranges[0] == "1-1, 6");
 }
 
-TEST_CASE("A2D TEST_CASE 4")
+TEST_CASE("A2D TEST_CASE 5")
 {
     {
         int a2dBitValues[] = {0,0,0,0, 0,0,0,0, 0,0,0,0};
